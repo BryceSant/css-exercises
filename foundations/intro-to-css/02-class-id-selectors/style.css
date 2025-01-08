@@ -1,5 +1,5 @@
 .smol {
-    background-color: red;
+    background-color: rgb(255, 167, 167);
     font-size: 18px;
 }
 
@@ -13,7 +13,7 @@
     font-family:'Times New Roman', Times, serif;
     font-size: 25px;
     font-weight: bold;
-    background-color: green;
+    background-color: hsl(120, 100%, 75%);
 }
 
 #num3 {
